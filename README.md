@@ -56,6 +56,14 @@ This program relies on SDL2.Framework to be installed on the system
 
 ![phong](Etc/teddy_toon.png)
 
+# Examples
+
+https://user-images.githubusercontent.com/9328186/123194090-830a1f80-d46b-11eb-948a-583ced32a95f.mov
+
+https://user-images.githubusercontent.com/9328186/123194093-843b4c80-d46b-11eb-9274-1a4266e200d5.mov
+
+https://user-images.githubusercontent.com/9328186/123194097-86051000-d46b-11eb-9a35-ec76e492bff2.mov
+
 # Caveats
 
 - Quaternion rotation flip issue
